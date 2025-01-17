@@ -2,7 +2,7 @@
 
 📜 **Overview**
 
-This project is focused on building a Handwriting Recognition Model using Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) with Connectionist Temporal Classification (CTC) loss for sequence prediction. The model is trained on a Kaggle dataset containing handwritten names.
+This project is focused on building a Handwriting Recognition Model using Convolutional Neural Networks (CNN) with Connectionist Temporal Classification (CTC) loss for sequence prediction. The model is trained on a Kaggle dataset containing handwritten names.
 
 ## 📦 Dependencies
 
