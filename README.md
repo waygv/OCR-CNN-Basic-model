@@ -52,3 +52,7 @@ You can run the code as Jupyter Notebooks or as Python scripts based on your pre
 2. Install the dependencies using pip:
    ```bash
    pip install tensorflow keras opencv-python pandas matplotlib numpy
+steps to improve this model 
+Replace the CTC loss fuction to prevent large amount of losses 
+addition of a accuracy calculator by setting a benchmark
+addition of a RNN at the end to improve accuracy
